@@ -19,7 +19,7 @@
 
 
 <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
-<link rel="icon" href="images/favicon.png" type="image/x-icon">
+<link rel="icon" href="images/favicon-01.png" type="image/x-icon">
 
 <!-- Responsive -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -77,7 +77,7 @@
             <div class="outer-container clearfix">
                 <!--Logo Box-->
                 <div class="logo-box">
-                    <div class="logo"><a href="index-2.html"><img src="images/logo-3.png" alt=""></a></div>
+                    <div class="logo"><a href="index-2.html"><img src="images/logo-01.png" alt=""></a></div>
                 </div>
                 
                 <!--Nav Outer-->
@@ -145,7 +145,7 @@
         <div class="auto-container clearfix">
             <!--Logo-->
             <div class="logo pull-left">
-                <a href="index-2.html" class="img-responsive"><img src="images/logo-small.png" alt="" title=""></a>
+                <a href="index-2.html" class="img-responsive"><img src="images/logo-small-01.png" alt="" title=""></a>
             </div>
             
             <!--Right Col-->

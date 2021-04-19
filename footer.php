@@ -11,7 +11,7 @@
                     	<!--Logo Widget-->
                     	<div class="footer-widget logo-widget">
                             <div class="logo">
-                                <a href="index-2.html"><img src="images/footer-logo.png" alt="" /></a>
+                                <a href="index-2.html"><img src="images/footer-logo-01.png" alt="" /></a>
                             </div>
                             <div class="text">Thewebmax ipsum amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore agna aliquam erat. ipsum dolor sit amet.</div>
                          
